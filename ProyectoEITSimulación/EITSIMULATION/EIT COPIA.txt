@@ -1,0 +1,2 @@
+14:47:26: can't open file '/Users/gitcelab2/Documents/MAMO EIT /.history/MAMO EIT .kicad_sch' (error 28: No space left on device)
+14:47:26: Got an error trying to lock /Users/gitcelab2/Documents/MAMO EIT /.history/.repo: Failed to open lock file
